@@ -32,7 +32,6 @@ You'll explore how to control user and role access to microservices with MicroPr
 // =================================================================================================
 
 == What you'll learn
-Testing actions
 
 You will add MicroProfile JWT to validate security tokens in the `system` and `inventory` microservices. You will use a token-based authentication mechanism to authenticate, authorize, and verify user identities based on a security token.
 
